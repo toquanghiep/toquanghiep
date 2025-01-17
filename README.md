@@ -14,7 +14,7 @@
 - 📫 How to reach me: toquanghiep@gmail.com
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I love exploring new technologies and sharing knowledge with students
-
+- 📝 Check out my blog: [CStudyVN](https://cstudyvn.blogspot.com)
 ## Technologies & Tools
 
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
@@ -35,6 +35,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toquanghiep&layout=compact&theme=radical)
 
 ## Connect with Me
-
-cstudyvn.blogspot.com
+[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:toquanghiep@gmail.com)
 
